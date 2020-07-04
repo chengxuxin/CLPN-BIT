@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/item/item",
+    "pages/map/map",
+    "pages/detail/detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "selectedIconPath": "img/zhuyes.png",
+        "iconPath": "img/zhuye.png",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "selectedIconPath": "img/xinjians.png",
+        "iconPath": "img/xinjian.png",
+        "pagePath": "pages/item/item",
+        "text": "新建"
+      },
+      {
+        "selectedIconPath": "img/ditus.png",
+        "iconPath": "img/ditu.png",
+        "pagePath": "pages/map/map",
+        "text": "地图"
+      }]
+
+  }
+}
