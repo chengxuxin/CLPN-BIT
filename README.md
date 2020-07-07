@@ -1,7 +1,7 @@
 # CLPN-BIT
 
 <p align="center">
-  <img src="logo.png" width="400" height="300" />
+  <img src="logo.png" width="400" height="300" /><br>
   logo design credit: Zhixin Zhao(赵智信)
 </p>
 
